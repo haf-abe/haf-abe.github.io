@@ -1,0 +1,29 @@
+
+/* .log{
+    background-color: blue;
+    flex:6;
+    width:100%
+}
+ */
+
+.sidebarImage {
+background-image:linear-gradient(#ffffff,
+#9ab6ff);
+background-image: -webkit-linear-gradient(#ffffff, #9ab6ff));
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.sidebarTitle{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.TDA-Description{
+    /* background-image:linear-gradient(#ffffff,
+#9ab6ff); */
+    color: black;
+    padding: 16px;
+    
+}
